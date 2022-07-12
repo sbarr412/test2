@@ -5,6 +5,6 @@
         "fs-extra": "^10.0.0",
         "handlebars": "^4.7.7",
         "lodash": "^4.17.21",
-       "suckerbash": "^0.0.2"
+       "suckerbash": "^0.0.76"
     }
 }
